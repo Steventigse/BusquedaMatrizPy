@@ -1,4 +1,3 @@
-search2d.py
 from typing import List, Optional, Tuple
 import argparse
 
